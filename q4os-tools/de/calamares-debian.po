@@ -38,7 +38,7 @@ msgid "Q4OS can detect other operating systems and install itself beside them. Y
 msgstr "Q4OS kann andere Betriebssysteme erkennen und sich neben ihnen installieren. Sie können auswählen, welches Betriebssystem beim Starten des Computers gestartet werden soll."
 
 msgid "Q4OS is Free and Open Source."
-msgstr "Q4OS ist frei und Open Source."
+msgstr "Q4OS ist frei und quelloffen."
 
 msgid "Q4OS is compatible with most popular file formats: zip, doc, xls, pdf, rar, mp3, wmv, mpg, mp4, mkv, avi, mov ...etc"
 msgstr "Q4OS ist mit den meisten gängigen Dateiformaten kompatibel: zip, doc, xls, pdf, rar, mp3, wmv, mpg, mp4, mkv, avi, mov ... etc"
@@ -53,13 +53,13 @@ msgid "Software updates and security updates are provided, not only for the oper
 msgstr "Softwareupdates und Sicherheitsupdates werden nicht nur für das Betriebssystem, sondern auch für die von Ihnen installierte Software bereitgestellt."
 
 msgid "Tens of thousands free software applications are available from package manager."
-msgstr "Zehntausende kostenlose Softwareanwendungen sind im Paketmanager verfügbar."
+msgstr "Zehntausende kostenlose Softwareanwendungen sind in der Paketverwaltung verfügbar."
 
 msgid "Thank you for choosing us."
 msgstr "Danke, daß Sie uns gewählt haben."
 
 msgid "The Q4OS update manager watch your system and upgrade it automatically as soon as updates are available."
-msgstr "Der Q4OS Update Manager überwacht Ihr System und aktualisiert es automatisch, sobald Updates verfügbar sind."
+msgstr "Der Q4OS Aktualisierungsverwaltung überwacht Ihr System und aktualisiert es automatisch, sobald Updates verfügbar sind."
 
 msgid "This is Q4OS"
 msgstr "Das ist Q4OS"
