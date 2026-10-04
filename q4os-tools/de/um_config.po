@@ -18,25 +18,25 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "Apply"
-msgstr ""
+msgstr "Anwenden"
 
 msgid "Auto close updater window on finish"
-msgstr ""
+msgstr "Wenn Aktualisierung fertig, Fenster automatisch schliessen"
 
 msgid "Close"
-msgstr ""
+msgstr "Schliessen"
 
 msgid "Make use of Synaptic package manager, if available"
-msgstr ""
+msgstr "Nutzen Sie die Synaptic-Paketverwaltung, falls verfügbar"
 
 msgid "Show upgradable packages lists and confirmation dialogs"
-msgstr ""
+msgstr "Listen mit aktualisierbaren Paketen und Bestätigungsdialoge anzeigen"
 
 msgid "Start updater window minimized"
-msgstr ""
+msgstr "Das Fenster des Aktualisierungs-Programms wird minimiert gestartet"
 
 msgid "Update Manager - configuration"
-msgstr ""
+msgstr "Aktualisierungs-Programm - Konfiguration"
 
 #~ msgid "Cancel"
 #~ msgstr "Abbrechen"
