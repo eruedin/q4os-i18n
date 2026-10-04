@@ -60,19 +60,19 @@ msgid "<p>NVIDIA installation has been detected !</p><p>Actions are disabled dur
 msgstr ""
 
 msgid "<p>Start Menu is now set to Bourbon style.</p>"
-msgstr ""
+msgstr "<p>Das Startmenu ist nun im bourbonischen Stil.</p>"
 
 msgid "<p>Start Menu is now set to Classic style.</p>"
-msgstr ""
+msgstr "<p>Das Startmenu ist nun im klassischen Stil.</p>"
 
 msgid "<p>Start Menu is now set to Kickoff style.</p>"
-msgstr ""
+msgstr "<p>Das Startmenu ist nun im Startschuss-Stil.</p>"
 
 msgid "<p>This action is available for Trinity and Plasma desktops only.</p>"
-msgstr ""
+msgstr "<p>Dies ist nur mit Trinity- und Plasma-Schreibtischen möglich.</p>"
 
 msgid "<p>This action is available for Trinity desktop only.</p>"
-msgstr ""
+msgstr "<p>Dies ist nur mit Trinity-Schreibtischen möglich."
 
 msgid "<p>Virtualbox installation has been detected !</p><p>Actions are disabled during Virtualbox setup, please wait until end of the Virtualbox installation.</p>"
 msgstr "<p>Eine Virtualbox-Installation wurde erkannt !</p><p>Alle Funktionen werden während des Virtualbox-Setups deaktiviert. Bitte warten Sie bis zum Ende der Virtualbox-Installation.</p>"
@@ -81,7 +81,7 @@ msgid "<p>Your hardware seems to be low to run desktop effects, it's not recomme
 msgstr "<p>Ihre Hardware scheint zu schwach zu sein, um Desktop-Effekte anzuzeigen. Es wird davon abgeraten, diese Effekte zu aktivieren.</p><p>Wollen Sie die Desktop-Effekte wirklich aktivieren ?</p>"
 
 msgid "Apply"
-msgstr ""
+msgstr "Anwenden"
 
 msgid "Autologin configuration"
 msgstr "Autologin-Konfiguration"
@@ -90,32 +90,32 @@ msgid "Automatic login"
 msgstr "Automatische Anmeldung"
 
 msgid "Bourbon"
-msgstr ""
+msgstr "Bourbonisch"
 
 msgid "Cancel"
 msgstr "Abbrechen"
 
 msgid "Categories"
-msgstr ""
+msgstr "Kategorien"
 
 msgid "Classic"
-msgstr ""
+msgstr "Klassisch"
 
 msgid "Classic style cascading menu"
-msgstr ""
+msgstr "Kaskadenmenü im klassischen Stil"
 
 msgid "Desktop effects"
-msgstr "Desktop-Effekte"
+msgstr "Schreibtisch-Effekte"
 
 #, fuzzy
 msgid "Do you want to turn Desktop Effects on ?"
 msgstr "<p>Wollen sie die Desktop-Effekte einschalten ?</p>"
 
 msgid "Documents online"
-msgstr ""
+msgstr "Dokumente im Netz"
 
 msgid "Donate to Q4OS"
-msgstr ""
+msgstr "Spende für Q4OS"
 
 msgid "Enable Autologin"
 msgstr "Automatische Anmeldung aktivieren"
@@ -124,10 +124,10 @@ msgid "Form2"
 msgstr ""
 
 msgid "Hardware info"
-msgstr ""
+msgstr "Hardware-Information"
 
 msgid "Info"
-msgstr "Info"
+msgstr "Information"
 
 msgid "Install Applications"
 msgstr "Programme installieren"
@@ -136,39 +136,39 @@ msgid "Install Proprietary Codecs"
 msgstr "Propritäre Codecs installieren"
 
 msgid "KickOff"
-msgstr ""
+msgstr "Startschuss"
 
 msgid "KickOff type menu"
-msgstr ""
+msgstr "Startschuss-Menü"
 
 msgid "Menu items organized by Applications"
-msgstr ""
+msgstr "Nach Anwendungen geordnete Menüpunkte"
 
 msgid "Menu items organized by Categories"
-msgstr ""
+msgstr "Nach Kategorien geordnete Menüpunkte"
 
 msgid "Menu structure"
-msgstr ""
+msgstr "Menüstruktur"
 
 msgid "Menu type"
-msgstr ""
+msgstr "Menüart"
 
 msgid "More options  >"
-msgstr ""
+msgstr "Weitere Optionen >"
 
 #, fuzzy
 msgid "Note, desktop effects will work flawlessly on modern hardware only, it's not recommended to use it with legacy hardware. A short system testing will be performed to ensure the hardware is ready to accept the configuration."
 msgstr "<font size=\"4\"><p>Einen Klick auf diesen Knopf und Ihr Desktop wird mit Effekten wiederbelebt.</p><p>Aber: Die Effekte laufen nur auf neueren Geräten flüssig. Es wir davon abgeraten, sie bei älterer Hardware zu benutzen. Ein schneller Systemtest wird ausgeführt, um die Kompatibilität zu ermitteln.</p></font>"
 
 msgid "Q4OS"
-msgstr ""
+msgstr "Q4OS"
 
 #, fuzzy
 msgid "Q4OS is installed as a very basic and clean desktop environment with the minimal software kit. Now it's the right time to adjust your new desktop, you might want to make use of tweaking shortcuts below."
 msgstr "<font size=\"4\"><p align=justify><b>Willkommen beim Q4OS</b>, dem schnellen und effizienten Desktop-Betriebssystem, fokussierend auf langhaltige Stabilität, Zuverlässigkeit und einer Klassisch-aussehender Benutzeroberfläche.</p><p align=justify>Q4OS ist als ein sehr einfaches Desktop-System mit minimaler Software aufgebaut. Jetzt ist es an der Zeit, um ihr Desktop einzustellen, wobei sie die untenstehenden Verknüpfungen benutzen können.</p></font>"
 
 msgid "Resize fonts and icons to adjust them according to the current screen resolution and make them more readable."
-msgstr ""
+msgstr "Passen Sie die Größe von Schriftarten und Symbolen an die aktuelle Bildschirmauflösung an, um deren Lesbarkeit zu verbessern."
 
 msgid "Revert to Classic"
 msgstr "Das Classic-Design anwenden"
@@ -180,10 +180,10 @@ msgid "Run Desktop Profiler"
 msgstr "Desktop-Profiler starten"
 
 msgid "Screen scaling"
-msgstr ""
+msgstr "Bildschirmskalierung"
 
 msgid "Set Autologin"
-msgstr "Autoanmeldung anwenden"
+msgstr "Automatische Anmeldung anwenden"
 
 msgid "Show this dialog on startup"
 msgstr "Dieses Fenster beim Start anzeigen"
@@ -192,26 +192,26 @@ msgid "Start menu configuration"
 msgstr "Startmenü-Konfiguration"
 
 msgid "Support us on Patreon"
-msgstr ""
+msgstr "Unterstütze uns auf Patreon"
 
 #, fuzzy
 msgid "Switch start menu"
 msgstr "Kickoff Startmenü benutzen"
 
 msgid "Switch to Bourbon"
-msgstr "Bourbon-Style anwenden"
+msgstr "Bourbonischer-Stil anwenden"
 
 msgid "Switch to Kickoff"
-msgstr "Kickoff-Style anwenden"
+msgstr "Startschuss-Stil anwenden"
 
 msgid "This option is to turn smoothing and beautifying desktop effects on."
-msgstr ""
+msgstr "Mit dieser Option lassen sich Glättungs- und Verschönerungseffekte für den Desktop aktivieren."
 
 msgid "Turn ON"
 msgstr "Einschalten"
 
 msgid "Two panel menu with search line"
-msgstr ""
+msgstr "Menü mit zwei Bereichen und Suchzeile"
 
 msgid "Warning !"
 msgstr "Achtung !"
@@ -220,7 +220,7 @@ msgid "Welcome screen"
 msgstr "Willkommensbildschirm"
 
 msgid "Welcome to Q4OS"
-msgstr ""
+msgstr "Willkommen zu Q4OS"
 
 msgid "Well arranged system hardware information."
 msgstr ""
@@ -229,7 +229,7 @@ msgid "Working ..."
 msgstr "Arbeitet ..."
 
 msgid "fast and powerful desktop operating system focused on long-term stability, reliability and classic style user interface."
-msgstr ""
+msgstr "Ein schnelles und leistungsstarkes Desktop-Betriebssystem, bei dem langfristige Stabilität, Zuverlässigkeit und eine Benutzeroberfläche im klassischen Stil im Vordergrund stehen."
 
 msgid "pushButton1"
 msgstr ""
@@ -259,10 +259,10 @@ msgstr ""
 #~ msgstr "<p>Automatische Anmeldung wurde deaktiviert</p>"
 
 #~ msgid "<p>Start Menu is now set to Kickoff style.<p>"
-#~ msgstr "<p>Das Startmenü wird nun im Kickoff-Style angezeigt.</p>"
+#~ msgstr "<p>Das Startmenü wird nun im Startschuss-Stil angezeigt.</p>"
 
 #~ msgid "<p>Start Menu is now set to Bourbon style.<p>"
-#~ msgstr "<p>Das Startmenü wird nun im Bourbon-Style angezeigt.</p>"
+#~ msgstr "<p>Das Startmenü wird nun im Bourbonischen-Stil angezeigt.</p>"
 
 #~ msgid "<p>Start Menu is now set to Classic style.<p>"
-#~ msgstr "<p>Das Startmenü wird nun im Classic-Style angezeigt.</p>"
+#~ msgstr "<p>Das Startmenü wird nun im Klassischen Stil angezeigt.</p>"
