@@ -42,7 +42,7 @@ msgid "Clocks"
 msgstr ""
 
 msgid "Close"
-msgstr ""
+msgstr "Schliessen"
 
 msgid "Code Name"
 msgstr ""
@@ -54,7 +54,7 @@ msgid "Cores"
 msgstr ""
 
 msgid "Desktop"
-msgstr ""
+msgstr "Schreibtisch"
 
 msgid "Details"
 msgstr ""
@@ -66,7 +66,7 @@ msgid "FW Date"
 msgstr ""
 
 msgid "Family"
-msgstr ""
+msgstr "Familie"
 
 msgid "Form (ui_form0)"
 msgstr ""
@@ -75,10 +75,10 @@ msgid "Form (ui_form1)"
 msgstr ""
 
 msgid "Graphics"
-msgstr ""
+msgstr "Graphiken"
 
 msgid "HW Summary"
-msgstr ""
+msgstr "Hardware Zusammenfassung"
 
 msgid "Hardware Info"
 msgstr ""
@@ -90,13 +90,13 @@ msgid "Host"
 msgstr ""
 
 msgid "Instructions"
-msgstr ""
+msgstr "Instruktionen"
 
 msgid "Kernel"
 msgstr ""
 
 msgid "L1 Data"
-msgstr ""
+msgstr "L1 Daten"
 
 msgid "L1 Inst."
 msgstr ""
@@ -105,16 +105,16 @@ msgid "L2 Cache"
 msgstr ""
 
 msgid "Level 2"
-msgstr ""
+msgstr "Stufe 2"
 
 msgid "Level 3"
-msgstr ""
+msgstr "Stufe 3"
 
 msgid "Mainboard"
-msgstr ""
+msgstr "Hauptplatine"
 
 msgid "Max Speed"
-msgstr ""
+msgstr "Max Geschwindigkeit"
 
 msgid "Microcode"
 msgstr ""
@@ -129,10 +129,10 @@ msgid "Name"
 msgstr ""
 
 msgid "Package"
-msgstr ""
+msgstr "Paket"
 
 msgid "Processor"
-msgstr ""
+msgstr "Prozessor"
 
 msgid "Processor #1"
 msgstr ""
@@ -147,10 +147,10 @@ msgid "SecureBoot"
 msgstr ""
 
 msgid "Selection"
-msgstr ""
+msgstr "Auswahl"
 
 msgid "Specification"
-msgstr ""
+msgstr "Spezifikationen"
 
 msgid "Stepping"
 msgstr ""
@@ -165,7 +165,7 @@ msgid "Threads"
 msgstr ""
 
 msgid "Topology"
-msgstr ""
+msgstr "Topologie"
 
 msgid "Type"
-msgstr ""
+msgstr "Typ"
