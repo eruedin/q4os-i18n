@@ -33,25 +33,25 @@ msgid "<p>"
 msgstr ""
 
 msgid "<p>Discover software manager isn't installed, please install it first.</p>"
-msgstr ""
+msgstr "<p>Die Discover-Software-Verwaltung ist nicht installiert. Bitte installieren Sie sie zunächst.</p>"
 
 msgid "<p>NVIDIA installation has been detected !</p><p>Actions are disabled during NVIDIA setup, please wait until end of the NVIDIA installation.</p>"
-msgstr ""
+msgstr "<p>Eine NVIDIA-Installation wurde erkannt!</p><p>Während der NVIDIA-Einrichtung sind keine Aktionen möglich. Bitte warten Sie, bis die NVIDIA-Installation abgeschlossen ist.</p>"
 
 msgid "<p>Package system is busy, not ready to install now. Setup cannot continue.</p><p>The lock is caused, most likely, by ongoing background system updates. If this is the case, you have to wait a moment for package system to finish these operations. Please make sure you are not installing another application and repeat setup few minutes later.</p>"
-msgstr ""
+msgstr "<p>Das Paketsystem ist ausgelastet und kann derzeit keine Installation durchführen. Die Installation kann nicht fortgesetzt werden.</p><p>Die Blockierung wird höchstwahrscheinlich durch laufende Systemaktualisierungen im Hintergrund verursacht. In diesem Fall müssen Sie einen Moment warten, bis das Paketsystem diese Vorgänge abgeschlossen hat. Bitte stellen Sie sicher, dass Sie keine andere Anwendung installieren, und wiederholen Sie die Installation einige Minuten später.</p>"
 
 msgid "<p>Select an application to install from the list of featured applications.</p>"
 msgstr ""
 
 msgid "<p>Synaptic package manager isn't installed, please install it first.</p>"
-msgstr ""
+msgstr "<p>Die Synaptic-Paketverwaltung ist nicht installiert. Bitte installieren Sie sie zunächst.</p>"
 
 msgid "<p>Virtualbox installation has been detected !</p><p>Actions are disabled during Virtualbox setup, please wait until end of the Virtualbox installation.</p>"
-msgstr "<p>Eine Virtualbox-Installation wurde erkannt !</p><p>Alle Funktionen werden während des Virtualbox-Setups deaktiviert. Bitte warten Sie bis zum Ende der Virtualbox-Installation.</p>"
+msgstr "<p>Eine Virtualbox-Installation wurde erkannt !</p><p>Alle Funktionen werden während des Virtualbox-Aktualisierung deaktiviert. Bitte warten Sie bis zum Ende der Virtualbox-Installation.</p>"
 
 msgid "<p>You have applied no desktop profile yet. It's highly recommended to apply a desktop profile before installing applications.</p><p>Please run <b>Dektop Profiler</b> tool to choose and apply a profile.</p>"
-msgstr ""
+msgstr "<p>Sie haben noch kein Desktop-Profil angewendet. Es wird dringend empfohlen, vor der Installation von Anwendungen ein Desktop-Profil anzuwenden.</p><p>Bitte führen Sie das Werkzeug <b>Dektop Profiler</b> aus, um ein Profil auszuwählen und anzuwenden.</p>"
 
 msgid "Application"
 msgstr "Programm"
@@ -78,16 +78,16 @@ msgid "Featured applications: #"
 msgstr "Installiere die ausgewählten Programme"
 
 msgid "Info"
-msgstr "Info"
+msgstr "Information"
 
 msgid "Install application"
 msgstr "Installieren"
 
 msgid "Install or uninstall selected application from the featured applications list below"
-msgstr ""
+msgstr "Installieren oder deinstallieren Sie die ausgewählte Anwendung aus der untenstehenden Liste der empfohlenen Anwendungen."
 
 msgid "More options"
-msgstr ""
+msgstr "Weiter Optionen"
 
 msgid "Q4OS Software Centre"
 msgstr "Q4OS Software Center"
@@ -100,14 +100,14 @@ msgstr "Starte den 'Desktop-Profiler'"
 
 #, fuzzy
 msgid "Run 'Discover' advanced software manager"
-msgstr "Starte 'Discover' - System-Paket-Manager"
+msgstr "Starte 'Discover' - System-Paketverwaltung"
 
 #, fuzzy
 msgid "Run 'Synaptic' advanced software manager"
-msgstr "Starte 'Discover' - System-Paket-Manager"
+msgstr "Starte 'Discover' - System-Paketverwaltung"
 
 msgid "Run comfortable package installer and Flatpak installer"
-msgstr ""
+msgstr "Führen Sie den „Comfortable Package Installer“ und den „Flatpak Installer“ aus"
 
 msgid "Search:"
 msgstr "Suche:"
@@ -137,7 +137,7 @@ msgid "download"
 msgstr "Herunterladen"
 
 msgid "no selection"
-msgstr ""
+msgstr "nichts gewählt"
 
 msgid "package"
 msgstr "Paket"
