@@ -61,16 +61,16 @@ msgstr ""
 "<p>Klicken Sie zum Fortfahren auf Fortfahren.</p>\n"
 
 msgid "<p>CPU architecture doesn't match !</p><p> Canceling installation ...</p>"
-msgstr ""
+msgstr "<p>Die CPU-Architektur stimmt nicht überein!</p><p> Installation wird abgebrochen ...</p>"
 
 msgid "<p>Error installing application, sorry, I cannot install.</p><p>Setup messages were recorded into logfile: <b>"
-msgstr ""
+msgstr "<p>Fehler bei der Installation der Anwendung. Leider kann ich die Installation nicht durchführen.</p><p>Die Installationsmeldungen wurden in der Protokolldatei gespeichert: <b>"
 
 msgid "<p>Initial data incomplete !</p><p> Canceling installation ...</p>"
-msgstr ""
+msgstr "<p>Anfangsdaten unvollständig!</p><p> Installation wird abgebrochen ...</p>"
 
 msgid "<p>Internet connection is inactive or very slow. Installer needs to download application packages from Q4OS Internet sources. Setup cannot continue ...</p>"
-msgstr ""
+msgstr "<p>Die Internetverbindung ist inaktiv oder sehr langsam. Das Installationsprogramm muss Anwendungspakete von den Q4OS-Internetquellen herunterladen. Die Installation kann nicht fortgesetzt werden ...</p>"
 
 msgid "<p>Package system is busy, not ready to install now. Setup cannot continue.</p><p>The lock is caused, very probably, by ongoing background system updates. If this is the case, you have to wait a moment for package system to finish these operations. Please make sure you are not installing another application and repeat setup few minutes later.</p><p>Cleaning and canceling now ...</p>"
 msgstr ""
@@ -136,25 +136,25 @@ msgid "Could not initialize, incorrect data header."
 msgstr ""
 
 msgid "Could not run Q4OS low-level apt utilities ! It is a serious problem, breaking the installation ..."
-msgstr ""
+msgstr "Die Low-Level-Apt-Dienstprogramme von Q4OS konnten nicht ausgeführt werden! Das ist ein schwerwiegendes Problem, das die Installation zum Scheitern bringt …"
 
 msgid "Do you really want to cancel pending operation ?"
 msgstr "Wollen sie den laufenden Prozess wirklich abbrechen ?"
 
 msgid "Downloading packages ..."
-msgstr ""
+msgstr "Pakete herunterladen..."
 
 msgid "Downloading packages ... Done"
-msgstr ""
+msgstr "Pakete herunterladen... Erledigt"
 
 msgid "Enter your password to continue:"
 msgstr "Tippen Sie zum Fortfahren ihr Passwort ein:"
 
 msgid "Extracting archive ..."
-msgstr ""
+msgstr "Archive auspacken ..."
 
 msgid "Extracting archive ... Done"
-msgstr ""
+msgstr "Archive auspacken ... Erledigt"
 
 msgid "Failed. Configuration file doesn't exist."
 msgstr ""
@@ -166,10 +166,10 @@ msgid "Finish >"
 msgstr "Fertigstellen >"
 
 msgid "Finishing installation ..."
-msgstr ""
+msgstr "Installation fertigstellen ..."
 
 msgid "I Agree"
-msgstr "Ich Stimme Zu"
+msgstr "Ich stimme zu"
 
 msgid "If you accept the terms of the agreement, click I Agree to continue. You must accept the agreement to install _SUBST_SWNAME_ software."
 msgstr "Wenn Sie die Vereinbarung akzeptieren, klicken Sie zum Fortfahren Ich Stimme Zu. Sie müssen die Vereinbarung akzeptieren, um _SUBST_SWNAME_ installieren zu können."
@@ -178,10 +178,10 @@ msgid "Install >"
 msgstr "Installieren >"
 
 msgid "Installation failed !"
-msgstr ""
+msgstr "Installation fehlgeschlagen"
 
 msgid "Installation successfully completed :-)"
-msgstr ""
+msgstr "Installation erfolgreich abgeschlossen"
 
 msgid "Installing files ..."
 msgstr ""
@@ -199,7 +199,7 @@ msgid "Next >"
 msgstr "Fortfahren >"
 
 msgid "Package"
-msgstr ""
+msgstr "Paket"
 
 msgid "Package system ... Busy !"
 msgstr ""
